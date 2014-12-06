@@ -1,3 +1,6 @@
 body {
   background: rgb(245, 248, 250);
 }
+.cabin-pics img {
+  border-radius: 20px;
+}
