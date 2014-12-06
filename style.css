@@ -1,6 +1,20 @@
 body {
   background: rgb(245, 248, 250);
 }
+body {
+  width: 100%;
+  position: absolute;
+  background-image: url('/snow.jpg');
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+.panel {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+}
 .cabin-pics img {
   border-radius: 20px;
+}
+.white {
+  color:white;
 }
